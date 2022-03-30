@@ -8,7 +8,7 @@ hedgehog.vc is a fund for open source businesses, operated by the team from Post
 * **We are open**
 * **Bias for action**
 
-## Focus
+## Focus
 
 We focus on businesses similar to our own, our unique experience is our unfair advantage:
 * Open source SaaS start-ups
