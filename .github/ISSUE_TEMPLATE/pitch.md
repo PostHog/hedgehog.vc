@@ -1,7 +1,7 @@
 ---
 name: pitch
 about: pitch an open source business to hedgehog.vc
-title: "[PITCH]"
+title: "[pitch]"
 labels: pitch
 assignees: ''
 
