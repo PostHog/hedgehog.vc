@@ -9,7 +9,7 @@ we want to help open source startups grow and build better products
 ## ethos
 
 * **you are open** - you share everything you do publically, including your key metrics
-* **we are open** - we share everything we do publically, and expect feedback our our decisions from anyone with access to this repo
+* **we are open** - we share everything we do publically, and expect feedback our our decisions from anyone on this repo
 * **bias for action** - less asking for investor updates, more getting stuck in and helping you when you need it
 
 ## focus
