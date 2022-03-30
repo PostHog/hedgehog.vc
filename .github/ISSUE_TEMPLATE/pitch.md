@@ -1,17 +1,33 @@
 ---
-name: Pitch
-about: Pitch your open source business to hedgehog.vc
+name: pitch
+about: pitch an open source business to hedgehog.vc
 title: "[PITCH]"
 labels: pitch
 assignees: ''
 
 ---
 
-## What are you trying to achieve?
-*Whats the ambitious goal you're focussed on? Who are you building for? Why is this problem worth solving?*
+## company name
+include a link if you want
 
-## How are you doing so far?
-*What have you built? Who's using it? Who's contributing?*
+## one liner
+keep it short
 
-## What are you doing next?
-*What do you have planned? What funding you do you need? What help do you need to do it*
+## what are you trying to achieve?
+what's the ambitious goal you're focused on? 
+who are you building for? 
+why is this problem worth solving?
+
+## how are you doing so far?
+what have you built? 
+who's using it? 
+who's contributing?
+
+## what are you doing next?
+what do you have planned? 
+what help do you need to do it?
+what funding you do you need?
+
+## anything else?
+feel free to attach a pitch deck
+but you really don't need one
