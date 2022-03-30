@@ -1,28 +1,35 @@
 # hedgehog.vc
 
-hedgehog.vc is a fund for open source businesses, operated by the team from posthog inc (high growth open source YC company). we believe open source is the future. we want open source startups to grow and build better products.
+hedgehog.vc backs open source businesses and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
+
+we believe open source is the future 
+
+we want to help open source startups grow and build better products
 
 ## ethos
 
-* **you are open** - you share everything you do publically including your key metrics
-* **we are open** - we share everything we do publically, and expect feedback our our decisions from anyone in the open source community
-* **bias for action** - we never ask for investor updates, we just get stuck in and help you when you need help
+* **you are open** - you share everything you do publically, including your key metrics
+* **we are open** - we share everything we do publically, and expect feedback our our decisions from anyone with access to this repo
+* **bias for action** - less asking for investor updates, more getting stuck in and helping you when you need it
 
 ## focus
 
-we focus on businesses similar to our own, our unique experience is our unfair advantage:
-* open source SaaS start-ups
-* at Seed round stage
-* with technical founders
+we focus on businesses similar to our own - our unique experience is our unfair advantage:
 
-## approach
+* open source saas start-ups
+* seed round stage
+* technical founders
 
-* we provide the playbook for founding, growing and operating an open source startup
-* our team have lived the hardest parts of growing an open source startup and we'll get stuck in to solving your hardest problems
-* we give you the funding you need to make your first hires and get traction
-* we give you unlimited use of our tooling for building better products
-* we will intro you to your next round investors - we know everyone who invests in open source
+## value
 
-## getting started
+* we share our playbook for founding, growing, and operating an open source startup
+* we help you solve your hardest problems - our team have lived the hardest parts of growing an open source startup
+* we give you the funding to help you make your first hires
+* we give you free, unlimited enterprise use of [our tooling](https://posthog.com/product) for building better products for 2 years
+* we will intro you to your series a investors - we know everyone who invests in open source
 
-wreate a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
+## start
+
+create a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
+
+anyone can do this
