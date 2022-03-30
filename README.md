@@ -26,5 +26,3 @@ We focus on businesses similar to our own, our unique experience is our unfair a
 ## Getting Started
 
 Create a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
-
-//TODO CLI for creating pitch issue
