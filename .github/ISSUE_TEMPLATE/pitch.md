@@ -23,6 +23,8 @@ what have you built?
 who's using it? 
 who's contributing?
 
+share links to any relevant repos
+
 ## what are you doing next?
 what do you have planned? 
 what help do you need to do it?
