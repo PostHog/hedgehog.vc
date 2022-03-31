@@ -1,4 +1,4 @@
-# hedgehog.vc
+# hedgehog.vc (beta)
 
 hedgehog.vc backs open source businesses and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
 
