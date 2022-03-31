@@ -22,6 +22,8 @@ we focus on businesses similar to our own - our unique experience is our unfair 
 
 you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria
 
+we do seed stage because we've had success from seed stage through multiple rounds later ourselves, so can help the most here
+
 ## value
 
 * we share our playbook for founding, growing, and operating an open source startup
