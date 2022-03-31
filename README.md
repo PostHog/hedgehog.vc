@@ -17,20 +17,24 @@ we want to help open source startups grow and build better products
 we focus on businesses similar to our own - our unique experience is our unfair advantage:
 
 * open source saas start-ups
-* seed round stage
+* seed round stage - we participate but don't lead
 * technical founders
+
+you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria
 
 ## value
 
 * we share our playbook for founding, growing, and operating an open source startup
 * we help you solve your hardest problems - our team have lived the hardest parts of growing an open source startup
-* we give you the funding to help you make your first hires
+* we give you funding to help you make your first hires - $50k per startup
 * we give you free, unlimited enterprise use of [our tooling](https://posthog.com/product) for building better products for 2 years
 * we will intro you to your series a investors - we know everyone who invests in open source
 
-## announcements
+## how
 
-* hedgehog.vc is seeking $1m in capital, raise an issue if we could be a scout for you
+* hedgehog.vc will act as a scout for an existing vc fund
+* this means we can focus on helping you build better products, not fund admin 
+* we are seeking $500k in capital - raise an issue if we could be a scout for you
 
 ## start
 
