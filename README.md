@@ -28,6 +28,10 @@ we focus on businesses similar to our own - our unique experience is our unfair 
 * we give you free, unlimited enterprise use of [our tooling](https://posthog.com/product) for building better products for 2 years
 * we will intro you to your series a investors - we know everyone who invests in open source
 
+## announcements
+
+* hedgehog.vc is seeking $1m in capital, raise an issue if we could be a scout for you
+
 ## start
 
 create a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
