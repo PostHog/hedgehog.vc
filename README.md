@@ -14,7 +14,7 @@ we want to help open source startups grow and build better products
 
 ## focus
 
-we focus on businesses similar than our own - our unique experience is our unfair advantage:
+we focus on businesses similar to our own - our unique experience is our unfair advantage:
 
 * open source saas start-ups
 * seed round stage - we participate but don't lead
