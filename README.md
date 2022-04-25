@@ -20,7 +20,7 @@ we focus on businesses similar to our own - our unique experience is our unfair 
 * seed round stage - we participate but don't lead
 * technical founders
 
-you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria
+you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are a US-registered company
 
 we do seed stage because we've had success from seed stage through multiple rounds later ourselves, so can help the most here
 
@@ -28,18 +28,33 @@ we do seed stage because we've had success from seed stage through multiple roun
 
 * we share our playbook for founding, growing, and operating an open source startup
 * we help you solve your hardest problems - our team have lived the hardest parts of growing an open source startup
-* we give you funding to help you make your first hires - $50k per startup
+* we give you funding to help you make your first hires - $100k per startup
 * we give you free, unlimited enterprise use of [our tooling](https://posthog.com/product) for building better products for 2 years
 * we will intro you to your series a investors - we know everyone who invests in open source
 
 ## how
 
-* hedgehog.vc will act as a scout for an existing vc fund
+* hedgehog.vc is a scout for an existing vc fund and we have complete decision-making autonomy
 * this means we can focus on helping you build better products, not fund admin 
-* we are seeking $500k in capital - raise an issue if we could be a scout for you
+* we have up to $2m in total to invest in 2022 - our standard investment is $100k (but we can be flexible)
+* we will ask you for pro rata rights - we want to keep supporting you as you grow
+
+## process
+
+* you send us an intro and tell us a bit about your product and company
+* we schedule a zoom call with you if we're interested in learning more
+* we send you any follow up questions (kept to an absolute minimum - we'll ask for the round paperwork)
+* james and tim - PostHog co-founders - will make a decision in their weekly meeting
+  * yes - we ask for your bank details
+  * no - we respond with thoughtful feedback
+* once we're done, we'll invite you to a shared slack channel 
+
+we're aiming for minimal friction, so please give us feedback
 
 ## start
 
-create a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
+email us at vc@posthog.com or create a [pitch issue](https://github.com/PostHog/hedgehog.vc/issues/new?assignees=&labels=pitch&template=pitch.md&title=%5BPITCH%5D)
+
+either option is fine, we don't prioritize one over the other
 
 anyone can do this
