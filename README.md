@@ -8,8 +8,8 @@ we want to help open source startups grow and build better products
 
 ## ethos
 
-* **you are open** - you share everything you do publicly
-* **we are open** - we share everything we do publicly, and expect feedback on our decisions from anyone on this repo
+* **you are open** - you share much of your work publicly
+* **we are open** - we share everything hedgehog.vc does publicly, and expect feedback on our decisions from anyone on this repo
 * **bias for action** - less asking for investor updates, more getting stuck in and helping you when you need it
 
 ## focus
@@ -27,10 +27,10 @@ we do seed stage because we've had success from seed stage through multiple roun
 ## value
 
 * we share our playbook for founding, growing, and operating an open source startup
-* we help you solve your hardest problems - our team have lived the hardest parts of growing an open source startup
+* open source group office hours - monthly group meeting with you + the other open source founders we invest in
 * we give you funding to help you make your first hires - $100k per startup
-* we give you free, unlimited enterprise use of [our tooling](https://posthog.com/product) for building better products for 2 years
-* we will intro you to your series a investors - we know everyone who invests in open source
+* we give you free enterprise use of [our tooling](https://posthog.com/product) for building better products for 1 year (up to 20m events/month)
+* we will aim to intro you to your series a investors - we know everyone who invests in open source
 
 ## how
 
@@ -41,7 +41,7 @@ we do seed stage because we've had success from seed stage through multiple roun
 
 ## process
 
-* you send us an intro and tell us a bit about your product and company
+* you send us an intro and tell us a bit about your product and company. answer whatever you feel comfortable with.
 * we schedule a zoom call with you if we're interested in learning more
 * we send you any follow up questions (kept to an absolute minimum - we'll ask for the round paperwork)
 * james and tim - PostHog co-founders - will make a decision in their weekly meeting
