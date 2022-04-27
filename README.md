@@ -34,8 +34,9 @@ we do seed stage because we've had success from seed stage through multiple roun
 
 ## how
 
-* hedgehog.vc is a scout for an existing vc fund and we have complete decision-making autonomy
-* this means we can focus on helping you build better products, not fund admin 
+* hedgehog.vc is a scout for [uncorrelated ventures](https://uncorrelated.com/)
+* we have complete decision-making autonomy
+* this setup means we can focus on helping you build better products, not fund admin 
 * we have up to $2m in total to invest in 2022 - our standard investment is $100k (but we can be flexible)
 * we will ask you for pro rata rights - we want to keep supporting you as you grow
 
