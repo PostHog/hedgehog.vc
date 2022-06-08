@@ -17,10 +17,10 @@ we want to help open source startups grow and build better products
 we focus on businesses similar to our own - our unique experience is our unfair advantage:
 
 * open source saas start-ups
-* seed round stage - we participate but don't lead
+* pre-seed or seed round stage
 * technical founders
 
-you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are a US- or UK-registered company
+you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are in a jurisdiction we can invest in (us, uk, cayman islands are ok)
 
 we do seed stage because we've had success from seed stage through multiple rounds later ourselves, so can help the most here
 
@@ -28,7 +28,7 @@ we do seed stage because we've had success from seed stage through multiple roun
 
 * we share our playbook for founding, growing, and operating an open source startup
 * open source group office hours - monthly group meeting with you + the other open source founders we invest in
-* we give you funding to help you make your first hires - $100k per startup
+* we give you funding to help you make your first hires - $100-500k per startup
 * we give you free enterprise use of [our tooling](https://posthog.com/product) for building better products for 1 year, up to 20m events/month
 * we will aim to intro you to your series a investors - we know everyone who invests in open source
 
@@ -37,7 +37,7 @@ we do seed stage because we've had success from seed stage through multiple roun
 * hedgehog.vc is a scout for [uncorrelated ventures](https://uncorrelated.com/)
 * we have complete decision-making autonomy
 * this setup means we can focus on helping you build better products, not fund admin 
-* we have up to $2m in total to invest in 2022 - our standard investment is $100k (but we can be flexible)
+* we will typically invest $100-500k (but we can be flexible)
 * we will ask you for pro rata rights - we want to keep supporting you as you grow
 
 ## process
