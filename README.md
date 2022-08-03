@@ -1,10 +1,6 @@
 # hedgehog.vc (beta)
 
-hedgehog.vc backs open source businesses and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
-
-we believe open source is the future 
-
-we want to help open source startups grow and build better products
+hedgehog.vc backs businesses similar to ours and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
 
 ## ethos
 
@@ -16,13 +12,13 @@ we want to help open source startups grow and build better products
 
 we focus on businesses similar to our own - our unique experience is our unfair advantage:
 
-* open source saas start-ups
+* open source / dev tool / data software start-ups
 * pre-seed or seed round stage
 * technical founders
 
-you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are in a jurisdiction we can invest in (us, uk, cayman islands are ok)
+you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are in a jurisdiction we can invest in (us, uk, cayman islands are ok - ask if it's not on this list)
 
-we do seed stage because we've had success from seed stage through multiple rounds later ourselves, so can help the most here
+we do pre-seed and seed stage because we've had success from pre-seed stage through multiple rounds later ourselves, so can help the most here
 
 ## value
 
