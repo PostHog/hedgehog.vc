@@ -1,4 +1,6 @@
-# hedgehog.vc (beta)
+# hedgehog.vc (currently in hibernation)
+
+_we're currently taking a little break as we're super busy growing posthog right now - feel free to get in touch with us, but we may take a while to reply to your message._
 
 hedgehog.vc backs businesses similar to ours and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
 
