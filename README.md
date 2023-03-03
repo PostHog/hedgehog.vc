@@ -1,6 +1,4 @@
-# hedgehog.vc (currently in hibernation)
-
-_we're currently taking a little break as we're super busy growing posthog right now - feel free to get in touch with us, but we may take a while to reply to your message._
+# hedgehog.vc
 
 hedgehog.vc backs businesses similar to ours and is operated by the team behind [posthog inc](https://posthog.com) (high growth open source yc company)
 
@@ -18,7 +16,7 @@ we focus on businesses similar to our own - our unique experience is our unfair 
 * pre-seed or seed round stage
 * technical founders
 
-you'll probably be a good fit if you're currently going through yc, but we will consider any companies that meet these criteria provided you are in a jurisdiction we can invest in (us, uk, cayman islands are ok - ask if it's not on this list)
+you'll probably be a good fit if you're currently going through yc w23, but we will consider any companies that meet these criteria provided you are in a jurisdiction we can invest in (us, uk, cayman islands are ok - ask if it's not on this list)
 
 we do pre-seed and seed stage because we've had success from pre-seed stage through multiple rounds later ourselves, so can help the most here
 
@@ -36,14 +34,14 @@ we do pre-seed and seed stage because we've had success from pre-seed stage thro
 * we have complete decision-making autonomy
 * this setup means we can focus on helping you build better products, not fund admin 
 * we will typically invest $100-500k (but we can be flexible)
-* we will ask you for pro rata rights - we want to keep supporting you as you grow
+* we will ask you for pro rata rights - we want to keep supporting you as you grow and need to make the investment maths work
 
 ## process
 
 * you send us an intro and tell us a bit about your product and company - answer whatever you feel comfortable with
 * we schedule a zoom call with you if we're interested in learning more
 * we send you any follow up questions (kept to an absolute minimum - we'll ask for the round paperwork)
-* james and tim - PostHog co-founders - will make a decision in their weekly meeting
+* james and charles - hedgehog.vc co-founders - will make a decision in their weekly meeting
   * yes - we ask for your bank details
   * no - we respond with thoughtful feedback
 * once we're done, we'll invite you to a shared slack channel 
